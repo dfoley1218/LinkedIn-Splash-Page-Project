@@ -1,3 +1,5 @@
+https://splashpageproject.netlify.app/
+
 This is a small-scale LinkedIn splash page concept utilizing different responsive design techniques including:
 - Changing text case
 - Viewport unit scaling
